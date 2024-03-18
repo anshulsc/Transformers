@@ -20,7 +20,7 @@ from PIL import Image
 from tqdm.notebook import tqdm
 from sklearn.model_selection import train_test_split
 
-from vit import ViT
+from Vision.vit import ViT
 # from Vit_torch import ViT, ModelArgs
 
 import glob
